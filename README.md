@@ -1,6 +1,6 @@
-## Zeta-Dynamics-Numerical-Evidence
+# Zeta-Dynamics-Numerical-Evidence
 
-# Independent Researcher | Open for Collaboration
+## Independent Researcher | Open for Collaboration
 
 This repository contains numerical evidence from my independent research on Zeta zero phase-space dynamics.
 
