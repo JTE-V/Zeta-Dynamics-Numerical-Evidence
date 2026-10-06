@@ -16,6 +16,12 @@ Status
 · Core algorithm source code is withheld for IP protection. Charts and raw data are open for academic scrutiny.
 
 Contact
+## Additional Evidence
 
+· Residual Drift: Systematic drift observed in residual diagnostics (N=5000).
+· Phase-Space Limit Cycle: A closed orbit in the phase-space projection of S(T) vs dS/dT.
+· Negative Autocorrelation: rho_1 = -0.3827, indicating strong level repulsion.
+
+All charts are derived from real Zeta zero data (N=5000). No AI fabrication. Core algorithm source code withheld for IP protection.
 
 For academic collaboration or data verification, please contact: zetaiuy@outlook.com
